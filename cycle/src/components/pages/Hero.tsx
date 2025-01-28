@@ -16,7 +16,7 @@ const Hero = () => {
             className="text-5xl text-black lg:text-white font-bold text-center lg:text-right  bg-clip-text"
            
           >
-            Let’s go outside and ride <span className="text-white lg:text-black">
+            Let's go outside and ride <span className="text-white lg:text-black">
               Cycle
             </span>
           </h1>

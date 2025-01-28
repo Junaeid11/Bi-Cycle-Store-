@@ -17,7 +17,7 @@ const About = () => {
               Your Trusted Bicycle Store
             </p>
             <p className="mt-4 max-w-2xl text-lg text-gray-500 lg:mx-auto">
-              At Krinck, we’re passionate about cycling. From high-performance bikes to essential accessories, we provide everything you need for your next cycling adventure. Quality, innovation, and customer satisfaction are at the heart of what we do.
+              At Krinck, we're passionate about cycling. From high-performance bikes to essential accessories, we provide everything you need for your next cycling adventure. Quality, innovation, and customer satisfaction are at the heart of what we do.
             </p>
           </div>
 
